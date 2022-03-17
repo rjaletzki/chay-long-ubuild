@@ -78,4 +78,3 @@ page_sections:
   content: Hello world!
 
 ---
-Hello
